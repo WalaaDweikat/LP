@@ -1,0 +1,43 @@
+.about-container{
+  font-family: 'Poppins', sans-serif;
+  margin-top:200px;
+  display: flex;
+  flex-direction: column;
+  color: #03045E;
+}
+
+.title-container{
+margin-bottom: 30px;
+}
+
+.title{
+  font-weight: bolder;
+  font-size: 60px;
+  line-height: 116px;
+  display: flex;
+  align-items: flex-end;
+  color: #F7F197;
+
+}
+
+.title-container p{
+  width: 70%;
+}
+
+.about-container li{
+  width: 50%;
+  margin-left: 30%;
+  margin-bottom: 50px;
+  
+}
+
+
+.about-container ul{
+  align-self: flex-end;
+}
+
+.title-container{
+
+  margin-left: 15%;
+  margin-right: 15%;
+}

@@ -1,0 +1,31 @@
+.container{
+  display: flex;
+  padding-top: 50px;
+  justify-content: space-around;
+  flex-wrap: wrap-reverse;
+}
+
+.job{
+  padding-top: 30px;
+  font-family: 'Poppins', sans-serif;
+  color: #03045E;
+  display: flex;
+  flex-direction: column;
+}
+
+.span{
+  font-size: 16px;
+  padding-top: 15px;
+}
+
+.job p{
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-weight: bolder;
+  font-size: 60px;
+  width: 50px;
+  line-height: 70px;
+  display: flex;
+  align-items: flex-end;
+}
+
